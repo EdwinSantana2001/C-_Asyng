@@ -1,0 +1,15 @@
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\AsyncTask\bin\Debug\net7.0\AsyncTask.exe
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\AsyncTask\bin\Debug\net7.0\AsyncTask.deps.json
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\AsyncTask\bin\Debug\net7.0\AsyncTask.runtimeconfig.json
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\AsyncTask\bin\Debug\net7.0\AsyncTask.dll
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\AsyncTask\bin\Debug\net7.0\AsyncTask.pdb
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\AsyncTask\obj\Debug\net7.0\AsyncTask.csproj.AssemblyReference.cache
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\AsyncTask\obj\Debug\net7.0\AsyncTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\AsyncTask\obj\Debug\net7.0\AsyncTask.AssemblyInfoInputs.cache
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\AsyncTask\obj\Debug\net7.0\AsyncTask.AssemblyInfo.cs
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\AsyncTask\obj\Debug\net7.0\AsyncTask.csproj.CoreCompileInputs.cache
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\AsyncTask\obj\Debug\net7.0\AsyncTask.dll
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\AsyncTask\obj\Debug\net7.0\refint\AsyncTask.dll
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\AsyncTask\obj\Debug\net7.0\AsyncTask.pdb
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\AsyncTask\obj\Debug\net7.0\AsyncTask.genruntimeconfig.cache
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\AsyncTask\obj\Debug\net7.0\ref\AsyncTask.dll

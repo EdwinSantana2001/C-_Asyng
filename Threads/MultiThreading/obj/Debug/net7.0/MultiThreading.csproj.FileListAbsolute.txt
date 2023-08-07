@@ -1,0 +1,15 @@
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\MultiThreading\bin\Debug\net7.0\MultiThreading.exe
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\MultiThreading\bin\Debug\net7.0\MultiThreading.deps.json
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\MultiThreading\bin\Debug\net7.0\MultiThreading.runtimeconfig.json
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\MultiThreading\bin\Debug\net7.0\MultiThreading.dll
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\MultiThreading\bin\Debug\net7.0\MultiThreading.pdb
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\MultiThreading\obj\Debug\net7.0\MultiThreading.csproj.AssemblyReference.cache
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\MultiThreading\obj\Debug\net7.0\MultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\MultiThreading\obj\Debug\net7.0\MultiThreading.AssemblyInfoInputs.cache
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\MultiThreading\obj\Debug\net7.0\MultiThreading.AssemblyInfo.cs
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\MultiThreading\obj\Debug\net7.0\MultiThreading.csproj.CoreCompileInputs.cache
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\MultiThreading\obj\Debug\net7.0\MultiThreading.dll
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\MultiThreading\obj\Debug\net7.0\refint\MultiThreading.dll
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\MultiThreading\obj\Debug\net7.0\MultiThreading.pdb
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\MultiThreading\obj\Debug\net7.0\MultiThreading.genruntimeconfig.cache
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\MultiThreading\obj\Debug\net7.0\ref\MultiThreading.dll

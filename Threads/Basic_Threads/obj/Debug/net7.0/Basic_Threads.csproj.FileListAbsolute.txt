@@ -1,0 +1,15 @@
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\Basic_Threads\bin\Debug\net7.0\Basic_Threads.exe
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\Basic_Threads\bin\Debug\net7.0\Basic_Threads.deps.json
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\Basic_Threads\bin\Debug\net7.0\Basic_Threads.runtimeconfig.json
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\Basic_Threads\bin\Debug\net7.0\Basic_Threads.dll
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\Basic_Threads\bin\Debug\net7.0\Basic_Threads.pdb
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\Basic_Threads\obj\Debug\net7.0\Basic_Threads.csproj.AssemblyReference.cache
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\Basic_Threads\obj\Debug\net7.0\Basic_Threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\Basic_Threads\obj\Debug\net7.0\Basic_Threads.AssemblyInfoInputs.cache
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\Basic_Threads\obj\Debug\net7.0\Basic_Threads.AssemblyInfo.cs
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\Basic_Threads\obj\Debug\net7.0\Basic_Threads.csproj.CoreCompileInputs.cache
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\Basic_Threads\obj\Debug\net7.0\Basic_Threads.dll
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\Basic_Threads\obj\Debug\net7.0\refint\Basic_Threads.dll
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\Basic_Threads\obj\Debug\net7.0\Basic_Threads.pdb
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\Basic_Threads\obj\Debug\net7.0\Basic_Threads.genruntimeconfig.cache
+C:\Users\edwsa\OneDrive\Documentos\Threads C#\Threads\Basic_Threads\obj\Debug\net7.0\ref\Basic_Threads.dll
