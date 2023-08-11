@@ -1,0 +1,15 @@
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\PredicateDelegate\bin\Debug\net7.0\PredicateDelegate.exe
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\PredicateDelegate\bin\Debug\net7.0\PredicateDelegate.deps.json
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\PredicateDelegate\bin\Debug\net7.0\PredicateDelegate.runtimeconfig.json
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\PredicateDelegate\bin\Debug\net7.0\PredicateDelegate.dll
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\PredicateDelegate\bin\Debug\net7.0\PredicateDelegate.pdb
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\PredicateDelegate\obj\Debug\net7.0\PredicateDelegate.csproj.AssemblyReference.cache
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\PredicateDelegate\obj\Debug\net7.0\PredicateDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\PredicateDelegate\obj\Debug\net7.0\PredicateDelegate.AssemblyInfoInputs.cache
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\PredicateDelegate\obj\Debug\net7.0\PredicateDelegate.AssemblyInfo.cs
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\PredicateDelegate\obj\Debug\net7.0\PredicateDelegate.csproj.CoreCompileInputs.cache
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\PredicateDelegate\obj\Debug\net7.0\PredicateDelegate.dll
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\PredicateDelegate\obj\Debug\net7.0\refint\PredicateDelegate.dll
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\PredicateDelegate\obj\Debug\net7.0\PredicateDelegate.pdb
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\PredicateDelegate\obj\Debug\net7.0\PredicateDelegate.genruntimeconfig.cache
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\PredicateDelegate\obj\Debug\net7.0\ref\PredicateDelegate.dll

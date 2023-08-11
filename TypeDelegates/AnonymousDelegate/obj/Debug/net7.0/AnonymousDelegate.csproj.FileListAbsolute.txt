@@ -1,0 +1,15 @@
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\AnonymousDelegate\bin\Debug\net7.0\AnonymousDelegate.exe
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\AnonymousDelegate\bin\Debug\net7.0\AnonymousDelegate.deps.json
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\AnonymousDelegate\bin\Debug\net7.0\AnonymousDelegate.runtimeconfig.json
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\AnonymousDelegate\bin\Debug\net7.0\AnonymousDelegate.dll
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\AnonymousDelegate\bin\Debug\net7.0\AnonymousDelegate.pdb
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\AnonymousDelegate\obj\Debug\net7.0\AnonymousDelegate.csproj.AssemblyReference.cache
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\AnonymousDelegate\obj\Debug\net7.0\AnonymousDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\AnonymousDelegate\obj\Debug\net7.0\AnonymousDelegate.AssemblyInfoInputs.cache
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\AnonymousDelegate\obj\Debug\net7.0\AnonymousDelegate.AssemblyInfo.cs
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\AnonymousDelegate\obj\Debug\net7.0\AnonymousDelegate.csproj.CoreCompileInputs.cache
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\AnonymousDelegate\obj\Debug\net7.0\AnonymousDelegate.dll
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\AnonymousDelegate\obj\Debug\net7.0\refint\AnonymousDelegate.dll
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\AnonymousDelegate\obj\Debug\net7.0\AnonymousDelegate.pdb
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\AnonymousDelegate\obj\Debug\net7.0\AnonymousDelegate.genruntimeconfig.cache
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\AnonymousDelegate\obj\Debug\net7.0\ref\AnonymousDelegate.dll

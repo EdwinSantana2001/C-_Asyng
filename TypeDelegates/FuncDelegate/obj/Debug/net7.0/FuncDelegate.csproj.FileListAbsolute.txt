@@ -1,0 +1,15 @@
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\FuncDelegate\bin\Debug\net7.0\FuncDelegate.exe
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\FuncDelegate\bin\Debug\net7.0\FuncDelegate.deps.json
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\FuncDelegate\bin\Debug\net7.0\FuncDelegate.runtimeconfig.json
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\FuncDelegate\bin\Debug\net7.0\FuncDelegate.dll
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\FuncDelegate\bin\Debug\net7.0\FuncDelegate.pdb
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\FuncDelegate\obj\Debug\net7.0\FuncDelegate.csproj.AssemblyReference.cache
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\FuncDelegate\obj\Debug\net7.0\FuncDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\FuncDelegate\obj\Debug\net7.0\FuncDelegate.AssemblyInfoInputs.cache
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\FuncDelegate\obj\Debug\net7.0\FuncDelegate.AssemblyInfo.cs
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\FuncDelegate\obj\Debug\net7.0\FuncDelegate.csproj.CoreCompileInputs.cache
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\FuncDelegate\obj\Debug\net7.0\FuncDelegate.dll
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\FuncDelegate\obj\Debug\net7.0\refint\FuncDelegate.dll
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\FuncDelegate\obj\Debug\net7.0\FuncDelegate.pdb
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\FuncDelegate\obj\Debug\net7.0\FuncDelegate.genruntimeconfig.cache
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\FuncDelegate\obj\Debug\net7.0\ref\FuncDelegate.dll

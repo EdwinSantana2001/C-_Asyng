@@ -1,0 +1,15 @@
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\ActionDelegates\bin\Debug\net7.0\ActionDelegates.exe
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\ActionDelegates\bin\Debug\net7.0\ActionDelegates.deps.json
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\ActionDelegates\bin\Debug\net7.0\ActionDelegates.runtimeconfig.json
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\ActionDelegates\bin\Debug\net7.0\ActionDelegates.dll
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\ActionDelegates\bin\Debug\net7.0\ActionDelegates.pdb
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\ActionDelegates\obj\Debug\net7.0\ActionDelegates.csproj.AssemblyReference.cache
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\ActionDelegates\obj\Debug\net7.0\ActionDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\ActionDelegates\obj\Debug\net7.0\ActionDelegates.AssemblyInfoInputs.cache
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\ActionDelegates\obj\Debug\net7.0\ActionDelegates.AssemblyInfo.cs
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\ActionDelegates\obj\Debug\net7.0\ActionDelegates.csproj.CoreCompileInputs.cache
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\ActionDelegates\obj\Debug\net7.0\ActionDelegates.dll
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\ActionDelegates\obj\Debug\net7.0\refint\ActionDelegates.dll
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\ActionDelegates\obj\Debug\net7.0\ActionDelegates.pdb
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\ActionDelegates\obj\Debug\net7.0\ActionDelegates.genruntimeconfig.cache
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\ActionDelegates\obj\Debug\net7.0\ref\ActionDelegates.dll

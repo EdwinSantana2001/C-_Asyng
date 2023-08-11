@@ -1,0 +1,15 @@
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\LambdaDelegate\bin\Debug\net7.0\LambdaDelegate.exe
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\LambdaDelegate\bin\Debug\net7.0\LambdaDelegate.deps.json
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\LambdaDelegate\bin\Debug\net7.0\LambdaDelegate.runtimeconfig.json
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\LambdaDelegate\bin\Debug\net7.0\LambdaDelegate.dll
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\LambdaDelegate\bin\Debug\net7.0\LambdaDelegate.pdb
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\LambdaDelegate\obj\Debug\net7.0\LambdaDelegate.csproj.AssemblyReference.cache
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\LambdaDelegate\obj\Debug\net7.0\LambdaDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\LambdaDelegate\obj\Debug\net7.0\LambdaDelegate.AssemblyInfoInputs.cache
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\LambdaDelegate\obj\Debug\net7.0\LambdaDelegate.AssemblyInfo.cs
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\LambdaDelegate\obj\Debug\net7.0\LambdaDelegate.csproj.CoreCompileInputs.cache
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\LambdaDelegate\obj\Debug\net7.0\LambdaDelegate.dll
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\LambdaDelegate\obj\Debug\net7.0\refint\LambdaDelegate.dll
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\LambdaDelegate\obj\Debug\net7.0\LambdaDelegate.pdb
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\LambdaDelegate\obj\Debug\net7.0\LambdaDelegate.genruntimeconfig.cache
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\TypeDelegates\LambdaDelegate\obj\Debug\net7.0\ref\LambdaDelegate.dll
