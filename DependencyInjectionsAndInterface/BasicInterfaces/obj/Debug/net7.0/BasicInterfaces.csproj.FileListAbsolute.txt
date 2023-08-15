@@ -1,0 +1,15 @@
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\DependencyInjectionsAndInterface\BasicInterfaces\bin\Debug\net7.0\BasicInterfaces.exe
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\DependencyInjectionsAndInterface\BasicInterfaces\bin\Debug\net7.0\BasicInterfaces.deps.json
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\DependencyInjectionsAndInterface\BasicInterfaces\bin\Debug\net7.0\BasicInterfaces.runtimeconfig.json
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\DependencyInjectionsAndInterface\BasicInterfaces\bin\Debug\net7.0\BasicInterfaces.dll
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\DependencyInjectionsAndInterface\BasicInterfaces\bin\Debug\net7.0\BasicInterfaces.pdb
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\DependencyInjectionsAndInterface\BasicInterfaces\obj\Debug\net7.0\BasicInterfaces.csproj.AssemblyReference.cache
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\DependencyInjectionsAndInterface\BasicInterfaces\obj\Debug\net7.0\BasicInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\DependencyInjectionsAndInterface\BasicInterfaces\obj\Debug\net7.0\BasicInterfaces.AssemblyInfoInputs.cache
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\DependencyInjectionsAndInterface\BasicInterfaces\obj\Debug\net7.0\BasicInterfaces.AssemblyInfo.cs
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\DependencyInjectionsAndInterface\BasicInterfaces\obj\Debug\net7.0\BasicInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\DependencyInjectionsAndInterface\BasicInterfaces\obj\Debug\net7.0\BasicInterfaces.dll
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\DependencyInjectionsAndInterface\BasicInterfaces\obj\Debug\net7.0\refint\BasicInterfaces.dll
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\DependencyInjectionsAndInterface\BasicInterfaces\obj\Debug\net7.0\BasicInterfaces.pdb
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\DependencyInjectionsAndInterface\BasicInterfaces\obj\Debug\net7.0\BasicInterfaces.genruntimeconfig.cache
+C:\Users\edwsa\OneDrive\Documentos\Practices C#\DependencyInjectionsAndInterface\BasicInterfaces\obj\Debug\net7.0\ref\BasicInterfaces.dll
